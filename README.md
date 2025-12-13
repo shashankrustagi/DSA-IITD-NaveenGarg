@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://upload.wikimedia.org/wikipedia/commons/9/9a/IIT_Delhi_Main_Building.jpg" 
+    src="https://home.iitd.ac.in/images/for-faculty/camp8.jpg" 
     alt="IIT Delhi Campus" 
     width="900"
   />
@@ -36,7 +36,7 @@ The material is suitable for building strong fundamentals rather than quick memo
 
 <p align="center">
   <img 
-    src="https://nptel.ac.in/content/storage2/courses/106102064/images/instructor.jpg" 
+    src="https://www.cse.iitd.ac.in/~naveen/images/ng.jpg" 
     alt="Dr Naveen Garg IIT Delhi" 
     width="320"
   />
