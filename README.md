@@ -38,7 +38,7 @@ The material is suitable for building strong fundamentals rather than quick memo
   <img 
     src="https://www.cse.iitd.ac.in/~naveen/images/ng.jpg" 
     alt="Dr Naveen Garg IIT Delhi" 
-    width="320"
+    width="340"
   />
 </p>
 
