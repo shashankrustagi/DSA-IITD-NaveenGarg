@@ -1,105 +1,111 @@
-# 📘 DSA Notes — Dr. Naveen Garg (IIT Delhi)
+# DSA Notes — Dr. Naveen Garg (IIT Delhi)
 
 <p align="center">
-  <img src="https://home.iitd.ac.in/images/gallery/campus/campus-1.jpg" alt="IIT Delhi Campus" width="800"/>
+  <img 
+    src="https://upload.wikimedia.org/wikipedia/commons/9/9a/IIT_Delhi_Main_Building.jpg" 
+    alt="IIT Delhi Campus" 
+    width="900"
+  />
 </p>
 
 ---
 
-## 🧠 Data Structures & Algorithms  
+## Data Structures and Algorithms  
 **Based on the lectures of Dr. Naveen Garg**  
-*Professor, Department of Computer Science & Engineering*  
-**Indian Institute of Technology, Delhi (IITD)**  
-*NPTEL*
+Professor, Department of Computer Science and Engineering  
+Indian Institute of Technology Delhi  
+(NPTEL)
 
 ---
 
-## 📌 About This Repository
+## About This Repository
 
-This repository contains **well-structured notes on Data Structures and Algorithms (DSA)** derived from the highly acclaimed **NPTEL course by Dr. Naveen Garg (IIT Delhi)**.
+This repository contains structured notes on **Data Structures and Algorithms**, compiled from the **NPTEL course taught by Dr. Naveen Garg at IIT Delhi**.
 
-These notes emphasize:
+The focus of these notes is on:
 - Conceptual clarity  
-- Mathematical rigor  
 - Algorithmic intuition  
-- Proof-based understanding  
+- Mathematical rigor  
+- Proof-based reasoning  
 
-They are ideal for **long-term mastery**, not just short-term exam prep.
+The material is suitable for building strong fundamentals rather than quick memorization.
 
 ---
 
-## 👨‍🏫 About Dr. Naveen Garg
+## About Dr. Naveen Garg
 
 <p align="center">
-  <img src="https://nptel.ac.in/content/storage2/courses/106102064/images/NaveenGarg.jpg" alt="Dr Naveen Garg IIT Delhi" width="300"/>
+  <img 
+    src="https://nptel.ac.in/content/storage2/courses/106102064/images/instructor.jpg" 
+    alt="Dr Naveen Garg IIT Delhi" 
+    width="320"
+  />
 </p>
 
-**Dr. Naveen Garg** is a distinguished faculty member at **IIT Delhi**, Department of Computer Science & Engineering.
+**Dr. Naveen Garg** is a faculty member in the **Department of Computer Science and Engineering, IIT Delhi**.
 
-### 🌟 Why his DSA lectures are exceptional:
-- Strong focus on **first principles**
-- Emphasis on **proofs, correctness, and rigor**
-- Clear separation between **intuition and formal reasoning**
-- Excellent for building **algorithmic thinking**
-- Widely regarded as one of the **best DSA courses on NPTEL**
+He is widely known for his clear, rigorous, and principle-driven teaching style.  
+His DSA course on NPTEL is considered one of the most conceptually strong resources for algorithms in India.
 
-His teaching style is especially beneficial for students aiming for:
-- Top tech company interviews  
-- Competitive programming  
-- Academic excellence in CS  
+Key characteristics of his lectures:
+- Emphasis on first principles  
+- Strong focus on correctness and proofs  
+- Clear distinction between intuition and formal logic  
+- Depth suitable for both students and serious practitioners  
 
 ---
 
-## 📚 Source of the Notes
+## Source
 
-- 🎥 **NPTEL DSA Course**
-- 🏫 **IIT Delhi – CSE Department**
-- 👨‍🏫 Instructor: **Dr. Naveen Garg**
+- Platform: NPTEL  
+- Institute: IIT Delhi  
+- Course: Data Structures and Algorithms  
+- Instructor: Dr. Naveen Garg  
 
-Official course link (NPTEL):  
-👉 https://nptel.ac.in/courses/106/102/106102064/
-
----
-
-## 📂 What You’ll Find in This Repository
-
-✔️ Clean and concise DSA notes  
-✔️ Topics aligned with IIT Delhi lectures  
-✔️ Focus on algorithms, complexity & correctness  
-✔️ Perfect for revision and deep learning  
-
-> ⚠️ These notes are compiled **strictly for educational purposes** from publicly available lectures.
+Official course page:  
+https://nptel.ac.in/courses/106/102/106102064/
 
 ---
 
-## 🎯 Who Is This For?
+## Contents
+
+- Core data structures  
+- Fundamental algorithms  
+- Time and space complexity analysis  
+- Correctness arguments and proofs  
+
+The notes closely follow the structure of the original lectures.
+
+---
+
+## Intended Audience
 
 - Computer Science students  
-- CAT / GATE aspirants  
-- Software engineering interview candidates  
-- Anyone who wants to **truly understand DSA**, not just memorize code  
+- GATE and CAT aspirants  
+- Software engineering interview preparation  
+- Anyone interested in learning DSA in a rigorous manner  
 
 ---
 
-## 🙏 Acknowledgement
+## Acknowledgement
 
-All credit for the content, structure, and teaching philosophy goes to:
+All academic credit for the content and pedagogy belongs to:
 
-> **Dr. Naveen Garg**  
-> Professor, CSE  
-> **Indian Institute of Technology, Delhi**
+**Dr. Naveen Garg**  
+Professor, CSE  
+Indian Institute of Technology Delhi
 
-This repository is a **student-driven initiative** to organize and revise his exceptional lectures.
+This repository is an independent, student-maintained effort created for educational and revision purposes.
 
 ---
 
-## ⭐ Support & Contribution
+## Disclaimer
 
-If you find this repository useful:
-- ⭐ Star the repository  
-- 🍴 Fork it  
-- 📢 Share it with fellow learners  
+These notes are based on publicly available lecture material.  
+They are not official IIT Delhi or NPTEL publications.
 
-Let’s promote **deep learning over rote learning** 🚀
+---
 
-Happy Coding! 💻
+## Support
+
+If this repository is useful to you, consider starring or sharing it.
