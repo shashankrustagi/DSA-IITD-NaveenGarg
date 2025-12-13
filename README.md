@@ -2,11 +2,12 @@
 
 <p align="center">
   <img 
-    src="https://home.iitd.ac.in/images/for-faculty/camp8.jpg" 
-    alt="IIT Delhi Campus" 
-    width="900"
+    src="https://home.iitd.ac.in/images/for-faculty/camp8.jpg"
+    alt="IIT Delhi Campus"
+    style="max-width: 900px; width: 100%; height: auto;"
   />
 </p>
+
 
 ---
 
